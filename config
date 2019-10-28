@@ -4,6 +4,10 @@ set $mod Mod4
 # i3 Font
 font pango:DejaVu Sans Mono 8
 
+# border style
+default_border none
+default_floating_border none
+
 # variables
 set $term urxvt
 set $brow  qutebrowser
